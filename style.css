@@ -1217,26 +1217,27 @@ footer{
 
   .exploreBgImg5,
   .exploreBgImg6 {
-    width: 173px;
-    height: 220px;
+    width: 168px;
+    height: 217px;
   }
 
   .exploreBgImg5{
     margin-right: 10px;
+    margin-left: 5px;
   }
 
   .exploreBgImg7{
-    margin-left: 0px;
-    margin-right: 3px;
+    margin-left: 5px;
+    margin-right: 4px;
   }
 
   .exploreBgImg9{
-   margin-left: 4px;
+   margin-left: 7px;
   }
   .exploreBgImg7,
   .exploreBgImg8,
   .exploreBgImg9 {
-    width: 115px;
+    width: 110px;
     height: 145px;
   } 
 
