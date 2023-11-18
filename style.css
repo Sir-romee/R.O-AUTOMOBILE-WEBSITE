@@ -1,37 +1,3 @@
-*,
-*::after,
-*::before {
-  box-sizing: border-box;
-}
-
-:root {
-  --bar-width: 60px;
-  --bar--height: 8px;
-  --hamburger-gap: 6px;
-  --foreground: #333;
-  --background: white;
-}
-
-.hamburgerMenu {
-  display: flex;
-  flex-direction: column;
- 
-}
-
-.hamburgerMenu::before,
-.hamburgerMenu::after,
-.hamburgerMenu input {
-  content: "";
-  width: var(--bar-width);
-  height: var(--bar-height);
-  background-color: var(--foreground);
-  border-radius: 9999px;
-}
-
-.hamburgerMenu input {
-  appearance: none;
-}
-
 html{
   scroll-behavior: smooth;
 }
