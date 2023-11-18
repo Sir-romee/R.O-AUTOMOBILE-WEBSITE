@@ -980,13 +980,11 @@ footer{
 
   .exploreSec{
     width: 100%;
-    
-    
   }
 
   .exploreItem{
     margin-left: 1px;
-    font-size: 5px;
+    font-size: 3px;
     font-weight: 900px;
   }
 
@@ -1011,19 +1009,21 @@ footer{
   }
 
   .sliderTitle{
-    width: 60px;
-    height: 10px;
+    margin-top: 15px;
+    width: 43px;
+    height: 25px;
     font-weight: 100px;
-    font-size: 8px;
-    margin-left: -40px;
-    padding-left: 12px;
-    padding-right: 12px;
-    padding-top: 16px;
+    font-size: 6px;
+    margin-left: -37px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 15px;
+    padding-bottom: 8px;
   }
 
   .sliderPrice{
     font-weight: 100px;
-    font-size: 30px;
+    font-size: 23px;
     right: 0%;
   }
 
@@ -1103,22 +1103,23 @@ footer{
   .galleryImg1{
     width: 149px;
     height: 150px;
-    margin-left: 61%;
+    margin-left: 59%;
   }
 
   .galleryTitle{
-    font-size: 9px;
-    margin-left: 118px;
-    padding-right: 14px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    margin-top: 147px;
+    font-size: 7px;
+    margin-left: 164px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 11px;
+    margin-top: 170px;
   }
 
   .galleryImg2{
     width: 153px;
     height: 150px;
-    margin-left: 3px;
+    margin-left: 10px;
   }
 
   .galleryItem{
@@ -1156,7 +1157,7 @@ footer{
   .galleryItems-11,
   .galleryItems-12 {
     width: 121px;
-    height: 137px;
+    height: 144px;
     margin-left: 5px;
   }
   
@@ -1261,7 +1262,6 @@ footer{
     margin-bottom: 30px;
   }
 
-  
   .exploreBgImg15{
     margin-right: 12px;
     margin-left: -13px;
@@ -1270,6 +1270,7 @@ footer{
   .exploreBgImg16{
     margin-left: 2px;
   }
+
   .exploreBgImg15,
   .exploreBgImg16 {
     width: 176px;
@@ -1279,7 +1280,6 @@ footer{
   .features{
     flex-direction: column;
     padding-top: 40px;
-    
   }
 
   .feature{
