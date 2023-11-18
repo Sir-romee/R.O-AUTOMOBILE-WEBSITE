@@ -28,6 +28,10 @@
   border-radius: 9999px;
 }
 
+.hamburgerMenu input {
+  appearance: none;
+}
+
 html{
   scroll-behavior: smooth;
 }
